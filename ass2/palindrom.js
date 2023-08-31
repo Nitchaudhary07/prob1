@@ -10,4 +10,5 @@ if(emt_str==str){
     console.log(" palindrome")
 }else{
     console.log(" not palindrome")
+
 }
